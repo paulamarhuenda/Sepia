@@ -67,6 +67,7 @@ echo "Animales asignados: \n";
 foreach ($jose->getAnimalesAsignados() as $animal) {
   echo "- " . $animal->getNombre() . " (" . $animal->getEdad() . " años)\n";
 }
-echo"Algooooooooo x";
-
+echo "Algooooooooo x";
+echo "NOS VIMOS EN BERLÍN"
+  
 ?>
