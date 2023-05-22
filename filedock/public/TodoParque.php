@@ -69,5 +69,6 @@ foreach ($jose->getAnimalesAsignados() as $animal) {
 }
 echo "Algooooooooo x";
 echo "NOS VIMOS EN BERLÍN"
+echo "A tomar por cleta"
   
 ?>
